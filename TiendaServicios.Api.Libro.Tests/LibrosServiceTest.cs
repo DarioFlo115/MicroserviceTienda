@@ -94,6 +94,7 @@ namespace TiendaServicios.Api.Libro.Tests
         [Fact]
         public async void GetLibros()
         {
+            //System.Diagnostics.Debugger.Launch(); este comando es para poder debuggear un test
             //Que metodo de microservice Libro se esta encargando de realizar la consulta de libros de la base de datos??
 
 
